@@ -1,6 +1,6 @@
 # Scholarly-Knowledge-Graph-Generation-Task1
 
-### Task #1 - Extracting Research Themes
+## Task #1 - Extracting Research Themes
 
 For this task, teams will be asked to develop a model that can identify and label research papers with a research theme. There will be a total of 36 themes, each paper will be labelled with a single theme.
 
@@ -11,3 +11,14 @@ Task participants are required to:
 - Develop methods addressing the task and submit the results via Kaggle
 - Document and submit their method as a short paper as specified on the SDP 2022 website
 - Provide source code for each method
+
+#### Data Sources
+
+Competition data will be supplied by the CORE aggregator (Knoth and Zdrahal, 2012).
+CORE is the world’s largest aggregator of open access scientific literature. Data in CORE is harvested from over 10,000 repositories using the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH) protocol. 
+
+#### Evaluation
+
+The evaluation metric for this competition is Mean F1-Score. The F1 score, commonly used in information retrieval, measures accuracy using the statistics precision P and recall R
+
+The F1 metric weights recall and precision equally, and a good retrieval algorithm will maximize both precision and recall simultaneously. Thus, moderately good performance on both will be favored over extremely good performance on one and poor performance on the other.
