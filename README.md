@@ -8,6 +8,6 @@ Competitors will be provided with 2 files, train.csv and test.csv. The train.csv
 
 Task participants are required to:
 
-    Develop methods addressing the task and submit the results via Kaggle
-    Document and submit their method as a short paper as specified on the SDP 2022 website
-    Provide source code for each method
+- Develop methods addressing the task and submit the results via Kaggle
+- Document and submit their method as a short paper as specified on the SDP 2022 website
+- Provide source code for each method
