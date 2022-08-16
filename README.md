@@ -1,5 +1,7 @@
 # Scholarly-Knowledge-Graph-Generation-Task1
 
+This is the first of three challenges in this competition: Research Theme Extraction
+
 ## Task #1 - Extracting Research Themes
 
 For this task, teams will be asked to develop a model that can identify and label research papers with a research theme. There will be a total of 36 themes, each paper will be labelled with a single theme.
@@ -22,3 +24,6 @@ CORE is the world’s largest aggregator of open access scientific literature. D
 The evaluation metric for this competition is Mean F1-Score. The F1 score, commonly used in information retrieval, measures accuracy using the statistics precision P and recall R
 
 The F1 metric weights recall and precision equally, and a good retrieval algorithm will maximize both precision and recall simultaneously. Thus, moderately good performance on both will be favored over extremely good performance on one and poor performance on the other.
+
+Link of competition: https://www.kaggle.com/competitions/sdp2022-scholarly-knowledge-graph-generation/overview
+Link of dataSet: https://www.kaggle.com/competitions/sdp2022-scholarly-knowledge-graph-generation/data
