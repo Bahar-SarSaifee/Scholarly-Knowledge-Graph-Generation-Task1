@@ -25,6 +25,6 @@ The evaluation metric for this competition is Mean F1-Score. The F1 score, commo
 
 The F1 metric weights recall and precision equally, and a good retrieval algorithm will maximize both precision and recall simultaneously. Thus, moderately good performance on both will be favored over extremely good performance on one and poor performance on the other.
 
-Link of competition: https://www.kaggle.com/competitions/sdp2022-scholarly-knowledge-graph-generation/overview
-
-Link of dataSet: https://www.kaggle.com/competitions/sdp2022-scholarly-knowledge-graph-generation/data
+COMPETITION SPONSOR: Kaggle
+Link OF COMPETITION: https://www.kaggle.com/competitions/sdp2022-scholarly-knowledge-graph-generation/overview
+Link OF DATASET: https://www.kaggle.com/competitions/sdp2022-scholarly-knowledge-graph-generation/data
