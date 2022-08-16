@@ -14,7 +14,7 @@ Task participants are required to:
 - Document and submit their method as a short paper as specified on the SDP 2022 website
 - Provide source code for each method
 
-#### Data Sources
+## Data Sources
 
 Competition data will be supplied by the CORE aggregator (Knoth and Zdrahal, 2012).
 CORE is the world’s largest aggregator of open access scientific literature. Data in CORE is harvested from over 10,000 repositories using the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH) protocol. 
